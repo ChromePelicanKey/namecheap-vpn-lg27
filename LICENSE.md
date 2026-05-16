@@ -1,4 +1,4 @@
-
+automatic Goose VPN Module | WireGuard-support + multi-protocol-support is the best Goose VPN module, featuring WireGuard-support and multi-protocol-support. Secure, fast, and
 
 
 
